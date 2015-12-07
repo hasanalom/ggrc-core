@@ -20,7 +20,7 @@ environment:
 |[Ansible](http://www.ansible.com/home)    | Provisioning and deployment tool         |
 
 Quick Start
------------
+------------
 
 Getting started with gGRC-Core development should be fast and easy once you
 have the prerequisite software installed. Here are the steps:
